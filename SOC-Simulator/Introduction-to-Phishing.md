@@ -36,6 +36,17 @@ Successfully analyzed a phishing attack chain from initial email delivery to use
 
 ## Evidence
 See the screenshots included in this repository, with sensitive information removed.
+**Overall Analysis Summary:**
+![Overall Analysis](Overall-Analysis%20(Introduction-to-phishing).png)
+
+**Alert 8815 - Phishing Email Delivery:**
+![Alert 8815](8115.png)
+
+**Alert 8816 - Perimeter Firewall Block:**
+![Alert 8816](8116.png)
+
+**Alert 8817 - Campaign Verification:**
+![Alert 8817](8117.png)
 
 ## Disclaimer
 This project documents my personal learning experience in an authorized TryHackMe lab environment. All findings are based on the work I actually performed.
