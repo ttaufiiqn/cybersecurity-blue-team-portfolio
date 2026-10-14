@@ -37,6 +37,17 @@ Gained hands-on experience tracking a live attacker within the network, recogniz
 
 ## Evidence
 See the screenshots included in this repository, with sensitive information removed.
+**Overall Analysis Summary:**
+![Overall Analysis](Overall-Analysis%20(phishing-unfolding).png)
+
+**Alert 1021 - False Positive Process (Benign Windows Behavior):**
+![Alert 1021](1021.png)
+
+**Alert 1024 - Defense Evasion (Network Drive Disconnected):**
+![Alert 1024](1024.png)
+
+**Alert 1032 - Data Exfiltration (DNS Tunneling):**
+![Alert 1032](1032.png)
 
 ## Disclaimer
 This project documents my personal learning experience in an authorized TryHackMe lab environment. All findings are based on the work I actually performed.
