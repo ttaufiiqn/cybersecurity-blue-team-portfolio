@@ -37,6 +37,7 @@ Gained hands-on experience tracking a live attacker within the network, recogniz
 
 ## Evidence
 See the screenshots included in this repository, with sensitive information removed.
+
 **Overall Analysis Summary:**
 ![Overall Analysis](Overall-Analysis%20(phishing-unfolding).png)
 
