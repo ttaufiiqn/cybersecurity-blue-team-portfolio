@@ -30,7 +30,7 @@ An attacker may have leveraged a compromised third-party software package to gai
 
 ![CyberChef Payload Decoding](/Screenshot%202026-10-14%20203249.png)
 
-![Malicious DNS Query](/Screenshot%202026-10-14%211000.png)
+![Malicious DNS Query](/Screenshot%202026-10-14%20211000.png)
 
 ### 3. Persistence Mechanism
 - **Query/Hunt:** Tracked registry modifications made by the malicious PowerShell process.
