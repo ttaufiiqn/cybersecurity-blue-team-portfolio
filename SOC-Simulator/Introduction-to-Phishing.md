@@ -36,6 +36,7 @@ Successfully analyzed a phishing attack chain from initial email delivery to use
 
 ## Evidence
 See the screenshots included in this repository, with sensitive information removed.
+
 **Overall Analysis Summary:**
 ![Overall Analysis](Overall-Analysis%20(Introduction-to-phishing).png)
 
